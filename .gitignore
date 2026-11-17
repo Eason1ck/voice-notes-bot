@@ -5,3 +5,6 @@ __pycache__/
 tmp/
 logs/
 .pytest_cache/
+eval/results/
+eval/dataset/*/*.ogg
+eval/dataset/*/*.m4a
